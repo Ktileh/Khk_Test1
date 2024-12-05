@@ -9,7 +9,7 @@ div {
 
 h1 {
     display: flex;
-    color: red;
+    color: blue;
     justify-content: center;
     margin-bottom: 100px;
 }
